@@ -8,6 +8,14 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         backgroundColor: "white"
     },
+
+    scrollContainer: {
+        // alignItems: "center",
+        // flex: 1,
+        //marginHorizontal:calcWidth(20),
+        paddingBottom: calcHeight(20),
+        width: calcWidth(375),
+    },
   
 });
 
